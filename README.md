@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Geek-Notes](https://github.com/PrethamMuthappa/Geek-Notes)
 
-- 🌱 I’m currently learning **Javascript ,Python**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
